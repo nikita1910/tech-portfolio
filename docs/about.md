@@ -8,10 +8,10 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
-1. Organizations you're involved with
+1. Student at University of Washington
+1. Formar FinIQ Software developer
 1. Your personal and professional values
-1. Hobbies or fun facts
+1. Painting and Dancing
 
 Write it in first (I) or third (Your Name Here) person.
 
@@ -23,7 +23,7 @@ Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- vGHC 2020 Scholarship
 
 ## Social Media
 
